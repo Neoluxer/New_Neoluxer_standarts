@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "684d34a8de9fe164",
+    "type": "split",
+    "children": [
+      {
+        "id": "dff89b9b387b9bdf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instruction/GIT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ed5ff3fe231e48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed292bbed55ad0b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a42f1add267178f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89f961a2a71131c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92112c25c938fe90",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf8ff5b9cc8d07a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2321536ab56dc5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instruction/GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dff89b9b387b9bdf",
+  "lastOpenFiles": [
+    "Instruction/Без названия.md",
+    "База знаний/Стек технологий для базы знаний.md",
+    "Стандарт чертежи/Манифест чертежи.md",
+    "Без названия.md",
+    "Стандарт чертежи/Без названия.md"
+  ]
+}
