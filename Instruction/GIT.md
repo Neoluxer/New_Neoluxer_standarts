@@ -11,4 +11,10 @@
 9. Можно добавить конкретный файл или файлы с конкретным расширением: git add *.md
 10. -a значит все файлы
 11. -m означает massage
-12. git commit -a -m"first commit"
+12. Создаем контрольную точку: git commit -a -m"first commit"
+13. Узнать какие комиты были: git log
+14. Копируем
+ git remote add origin https://github.com/Neoluxer/Neoluxer_bot.git из
+![[Pasted image 20211015225117.png]]
+15. Вставляем в терминал (добавляем удаленный репозиторий. Теперь локальный репозиторий связан с удаленным)
+16. git push -u origin master  (Запушиваем репозиторий)
