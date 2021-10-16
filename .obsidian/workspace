@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Instruction/GIT.md",
-            "mode": "source"
+            "file": "Стандарт обмеры/Стандарт обмерный план.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instruction/GIT.md",
+                "file": "Стандарт обмеры/Стандарт обмерный план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "3abdefe3f766efdc",
   "lastOpenFiles": [
+    "Стандарт обмеры/Стандарт обмерный план.md",
     "Instruction/GIT.md",
     "Стандарт обмеры/Без названия.md",
     "Instruction/Без названия.md",
-    "Стандарт обмеры/Стандарт обмерный план.md",
     "Стандарт по созданию стандартов/Стандарт по созданию стандарта.md",
     "Стандарт по созданию стандартов/Без названия.md",
     "База знаний/Стек технологий для базы знаний.md",
