@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Instruction/GIT.md",
+            "file": "База знаний/Стек технологий для базы знаний.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instruction/GIT.md",
+                "file": "База знаний/Стек технологий для базы знаний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "3abdefe3f766efdc",
   "lastOpenFiles": [
+    "База знаний/Стек технологий для базы знаний.md",
     "Instruction/GIT.md",
     "Стандарт обмеры/Стандарт обмерный план.md",
     "Pasted_ image_ 20211015225117.png.md",
     "Pasted image 20211015184343.png",
     "Стандарт чертежи/Манифест чертежи.md",
-    "База знаний/Стек технологий для базы знаний.md",
     "Стандарт обмеры/Без названия.md",
     "Instruction/Без названия.md",
     "Без названия.md",
