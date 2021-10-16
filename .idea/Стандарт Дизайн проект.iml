@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Python-Roadmap-master" />
+    <orderEntry type="module" module-name="untitled2" />
+    <orderEntry type="module" module-name="RenameFiles" />
   </component>
 </module>
