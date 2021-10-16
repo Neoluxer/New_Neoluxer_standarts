@@ -15,6 +15,6 @@
 13. Узнать какие комиты были: git log
 14. Копируем
  git remote add origin https://github.com/Neoluxer/Neoluxer_bot.git из
-![[Pasted_ image_ 20211015225117.png]]
+GITHUB
 15. Вставляем в терминал (добавляем удаленный репозиторий. Теперь локальный репозиторий связан с удаленным)
 16. git push -u origin master  (Запушиваем репозиторий)
