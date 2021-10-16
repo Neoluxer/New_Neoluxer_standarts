@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Стандарт обмеры/Обмерный чертёж.md",
+            "file": "Instruction/GIT.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стандарт обмеры/Обмерный чертёж.md",
+                "file": "Instruction/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "3abdefe3f766efdc",
   "lastOpenFiles": [
+    "Instruction/GIT.md",
     "Стандарт обмеры/Без названия.md",
     "Instruction/Без названия.md",
     "Стандарт обмеры/Стандарт обмерный план.md",
     "Стандарт по созданию стандартов/Стандарт по созданию стандарта.md",
     "Стандарт по созданию стандартов/Без названия.md",
     "База знаний/Стек технологий для базы знаний.md",
-    "Instruction/GIT.md",
     "Pasted_ image_ 20211015225117.png.md",
     "Pasted image 20211015184343.png",
     "Стандарт чертежи/Манифест чертежи.md"
